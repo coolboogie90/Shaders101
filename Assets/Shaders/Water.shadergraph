@@ -204,6 +204,9 @@
         },
         {
             "m_Id": "890c7f2eb7c4485e9472790c85abe0a8"
+        },
+        {
+            "m_Id": "31f34ec83a444c21ae469d2c94de5e8a"
         }
     ],
     "m_Edges": [
@@ -2139,6 +2142,26 @@
         "z": 0.0
     },
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "31f34ec83a444c21ae469d2c94de5e8a",
+    "m_Title": "Saturate",
+    "m_Content": "enlève lumière zone trouble",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1097.0,
+        "y": 284.0,
+        "width": 200.0,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": "4435f02206f54ae69235dcc6d9917ab5"
+    }
 }
 
 {
